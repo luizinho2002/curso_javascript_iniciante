@@ -1,0 +1,2 @@
+let frequency = 110.95; // Aqui foi declarada uma variável chamada frequency que recebe um valor decimal (110.95)
+console.log(frequency); // Aqui é impresso no console do navegador o resultado da variável frequency

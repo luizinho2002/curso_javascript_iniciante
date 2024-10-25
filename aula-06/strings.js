@@ -1,0 +1,2 @@
+let nomeUsuario = 'Sheck Wes'; // Aqui foi decalara uma variável com nome de nomeUsuario com o valor de uma string ('Sheck Wes')
+console.log(nomeUsuario); // Aqui imprime o valor da variável nomeUsuario no console do navegador

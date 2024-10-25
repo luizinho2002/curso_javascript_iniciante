@@ -1,0 +1,2 @@
+let data; // Aqui foi decalarada uma variável com nome data que não foi inicializada.
+console.log(data); // Aqui imprime o valor 'undefined' no console do navegador devido a variável não ter sido inicializada.

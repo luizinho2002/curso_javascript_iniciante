@@ -1,0 +1,2 @@
+let idade = 22; // Aqui foi declarada uma variável chamada idade que recebe o valor 22
+console.log(`A idade do usuário é ${idade} anos`); // Aqui é impresso o texto `Você é maior de' com o valor da variável idade

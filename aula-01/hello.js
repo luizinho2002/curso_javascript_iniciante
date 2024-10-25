@@ -1,0 +1,1 @@
+console.log('Hello World'); // Imprime a string 'Hello World' no console do navegador

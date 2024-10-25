@@ -1,0 +1,1 @@
+var idade = 22; // Aqui foi declarada uma variável chamada idade com o valor 22 utilizando a palavra-chave var
